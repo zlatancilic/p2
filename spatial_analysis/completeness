@@ -1,0 +1,31 @@
+counties:
+
+total:62
+OBJECTID:	62(100%)
+NAME:     	62(100%)
+COUNTYFP: 	62(100%)
+STATEFP:  	62(100%)
+
+streets:
+
+total:     	1,113,969
+NYSStreetI: 1,113,969(100%)
+StreetName: 1,061,806(95.3%)
+PostType:   871,372(78.2%)
+PostDirect: 13,429(1.2%)
+LeftCounty: 1,113,890(99.9%)
+RightCount: 1,113,860(99.9%)
+LeftPostal: 1,113,786(99.9%)
+RightPosta: 1,113,787(99.9%)
+
+adress points:
+
+total:      		4,229,542
+NYSAddressPointID:	4,229,542(100%)
+CountyID:			2,360,761(55.8%)
+NYSStreetID(long)	3,944,363(93.2%)
+AddressNumber(long)	4,229,326(99.9%)
+StreetName			4,229,542(100%)
+ZipCode				4,229,542(100%)
+PointType			4,229,542(100%)
+AddressSource		4,229,542(100%)

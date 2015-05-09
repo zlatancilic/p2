@@ -1,0 +1,36 @@
+Streets
+
+Count 1,113,969
+
+Invalid geometry - 0 returned
+	Same as for polygon
+
+Multipart line - 0 returned
+	Multipart line features are those that have two or more path
+
+Polyline or path closes on self
+	Paths or lines in polyline features that either touch or cross themselves
+
+	3844 found (0.34%)
+	NYStreetl		Name
+	505704945		Tammy Court - valid
+	505727600		Woodsedge Court - valid
+	442378820		Cemetery Road - valid
+	437996177		Heritage Circle - valid
+	437259549		Carpenter Road - valid
+	505853650		Hicks Lane - not valid
+	505886439		Trails End - valid
+	505893873		Milton Court - valid
+	505900507		North Island Drive - valid
+	505850029		Trotter Drive - not valid
+	505854209		Lower Salem Road - valid
+
+	Sample check: 10 records of all found records were manually checked and some were valid and some not.
+	Status: Partially valid
+
+Cutbacks (5% tolerance) - 0 returned
+	Cutbacks are high-angle turns that cause features to turn back toward themselves. These angles affect polyline and polygon features and can be caused during an editing session
+	uraditi ponova sa 15
+
+Visual precision
+	Looking at searched records, visual precision id partially valid.

@@ -1,0 +1,35 @@
+Counties
+
+Count 62
+
+Invalid geometry - 0 results
+	If an object has SHAPE field equals to null, or has no geometry info besides inital state, 
+	or it's bounding rectangle has no geometry info, or it is not simple to process(wrong orientation,
+	slef-ntersection, open polygon...)
+
+	Total count: 62
+Multipart geometry
+	Multipart polygon features are polygons that contain more than one part or have a hole.
+	Multipart found: 6 (9.67 %):
+	id 		name	
+	19		Queens - valid 
+	25 		Erie - not valid
+	26		Bronx - valid
+	61		New York - valid
+	74		Kings - valid
+	80		Suffolk - valid
+	Sample check: All found records were manually checked and some were valid and some not.
+	Status: Partially valid
+
+Sliver polygon - 0 returned
+	The factors that define a sliver polygon are the thinness ratio and the polygon's area. If the polygon is below a specified thinness ratio and value, it is considered a sliver
+
+Visual precision
+	19		Queens - not valid 
+	25 		Erie - not valid
+	26		Bronx - not valid
+	61		New York - not valid
+	74		Kings - not valid
+	80		Suffolk - not valid
+	Status: not valid
+	Provjeriti sa Aidom jos
